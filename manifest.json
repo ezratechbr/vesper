@@ -1,0 +1,12 @@
+{
+  "name": "Vesper Studio",
+  "short_name": "Vesper",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0d0d12",
+  "theme_color": "#0d0d12",
+  "icons": [
+    {"src":"data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230d0d12'/><text x='96' y='124' font-size='96' text-anchor='middle' fill='%23c9a86a' font-family='serif'>V</text></svg>","sizes":"192x192","type":"image/svg+xml"},
+    {"src":"data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230d0d12'/><text x='256' y='336' font-size='260' text-anchor='middle' fill='%23c9a86a' font-family='serif'>V</text></svg>","sizes":"512x512","type":"image/svg+xml"}
+  ]
+}
